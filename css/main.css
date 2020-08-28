@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+body {
+	 font-family: 'Alata', sans-serif;}
+h1 {
+    margin-top: 80px;
+	margin-left: 50px;
+   
+}
+
+h2 {
+    margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 220px;
+	
+   
+}
+
+p {
+	margin-left: 50px;
+	margin-right: 220px;
+	
+	
+}
+
+br {margin-left: 50px}
+
+.subnav-content {
+        display: none;
+        position: absolute;
+        left: 10;
+        background-color: rgba(255, 0, 179, 0.472);
+        width: 100%;
+        z-index: 1;
+      }
+
+
